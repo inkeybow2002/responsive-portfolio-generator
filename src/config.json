@@ -1,0 +1,17 @@
+{
+    "siteTitle": "My Portfolio",
+    "about": "This is a brief introduction about me.",
+    "projects": [
+        {
+            "title": "Project 1",
+            "link": "https://project1.com"
+        },
+        {
+            "title": "Project 2",
+            "link": "https://project2.com"
+        }
+    ],
+    "contact": {
+        "email": "your.email@example.com"
+    }
+}
